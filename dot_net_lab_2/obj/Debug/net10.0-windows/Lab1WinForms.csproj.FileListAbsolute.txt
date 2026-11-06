@@ -1,0 +1,29 @@
+D:\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.exe
+D:\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.deps.json
+D:\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.runtimeconfig.json
+D:\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.dll
+D:\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.pdb
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.AssemblyInfoInputs.cache
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.AssemblyInfo.cs
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.csproj.CoreCompileInputs.cache
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.dll
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\refint\Lab1WinForms.dll
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.pdb
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.genruntimeconfig.cache
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\ref\Lab1WinForms.dll
+D:\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinF.5C5BBA44.Up2Date
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.exe
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.deps.json
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.dll
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\bin\Debug\net10.0-windows\Lab1WinForms.pdb
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.dll
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\refint\Lab1WinForms.dll
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.pdb
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\Lab1WinForms.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Dot NET\lab_2\dot_net_lab_2\obj\Debug\net10.0-windows\ref\Lab1WinForms.dll
